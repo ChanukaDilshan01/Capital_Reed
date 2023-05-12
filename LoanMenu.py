@@ -9,7 +9,7 @@ root.title("Capital Reed (Pvt) Ltd")
 topPanal = Label(root, bg="#33d0f6", width=4000,height=10)
 topPanal.place(x=1,y=1)
 
-logo= Image.open("C:\capital reed\logo.png")
+logo= Image.open("C:\capital reed\Capital_Reed\logo.png")
 logoimage = ImageTk.PhotoImage(logo.resize((100,100 )))
 logoLable=Label(root,image=logoimage )
 logoLable.place(x=1,y=1)
