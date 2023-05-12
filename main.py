@@ -1,4 +1,4 @@
-import LoanMenu
+#import LoanMenu
 from tkinter import *
 from PIL import Image ,ImageTk
 
